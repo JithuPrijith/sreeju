@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "student 1",
+      "email": "studen1@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "student 2",
+      "email": "studen2@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "student 3",
+      "email": "studen3@gmail.com"
+    },
+    {
+      "id": "9f05"
+    },
+    {
+      "id": "4361"
+    },
+    {
+      "id": "a44b"
+    },
+    {
+      "id": "8019",
+      "name": "student 4",
+      "email": "studen4@gmail.com"
+    }
+  ]
+}
